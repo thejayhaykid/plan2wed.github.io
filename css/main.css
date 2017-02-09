@@ -1,11 +1,8 @@
-/*
-
-* Based on Cover by https://twitter.com/mdo"  @mdo
-* added cover image and background color to match (green)
-*
-* Globals
-
-*/
+.jumbotron {
+  background: center center no-repeat;
+  height: 100%;
+  width: 100%;
+}
 
 /* Links */
 a,
